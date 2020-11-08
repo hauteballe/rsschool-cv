@@ -1,0 +1,134 @@
+body {
+  background-color: transparent;
+  color: #263238;
+}
+.container {
+  max-width: 1024px;
+  margin: 0 auto;
+}
+.cv-content {
+  font-family: "Roboto", "Minion Pro", Palatino, Georgia, serif;
+  font-size: 16px;
+  color: #263238;
+  padding: 40px 40px 20px 40px;
+}
+header {
+  width: 100%;
+  padding-bottom: 24px;
+  border-bottom: 1px #c7c7c7 solid;
+  text-align: center;
+}
+.header-title img {
+  height: 150px;
+  border-radius: 50%;
+}
+
+.header-name,
+.header-title,
+.main-info h3,
+.left-column p:not(:last-child) {
+  font-family: "Comfortaa", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.header-name h1 {
+  font-weight: 200;
+  font-size: 40px;
+  letter-spacing: 10px;
+  margin-bottom: 10px;
+  position: relative;
+  z-index: 1;
+}
+.header-name {
+  position: relative;
+  width: 500px;
+  margin: auto;
+}
+.header-name::before {
+  content: "";
+  background-color: #fffbb9;
+  height: 37px;
+  width: 570px;
+  position: absolute;
+  left: 65px;
+}
+
+.header-title span {
+  font-size: 40px;
+  font-weight: 500;
+}
+
+.header-contacts {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  text-decoration: none;
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+  font-size: 16px;
+}
+.header-contacts p:not(:last-child):after {
+  content: " | ";
+  padding: 0 4px;
+}
+.header-contacts p:hover {
+  color: #93d051;
+  cursor: pointer;
+}
+.header-social {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.header-social a {
+  background-color: #263238;
+  margin-right: 10px;
+  border-radius: 100%;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+}
+
+.header-social i.fas,
+.header-social i.fab {
+  color: #fff;
+  font-size: 14px;
+  text-align: center;
+}
+.header-social i.fab:hover {
+  color: #fffbb9;
+}
+.main-info {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.left-column {
+  width: 30%;
+}
+.main-header::before {
+  content: "";
+  background-color: #fffbb9;
+  height: 0.75em;
+  width: 4em;
+  position: absolute;
+  margin: 0.7em 0 0 -0.25em;
+}
+.main-header {
+  opacity: 100%;
+  position: relative;
+}
+
+.right-column a {
+  text-decoration: none;
+  color: #263238;
+}
+.main-info p {
+  font-family: "Roboto" Arial, Helvetica, sans-serif;
+}
+.main-info h3 {
+  position: relative;
+}
