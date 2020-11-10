@@ -5,26 +5,27 @@
 * E-mail: hauteballe@gmail.com  
 * [LinkedIn](https://www.linkedin.com/in/irene-sinitsyna-a346a31ba/)
 
-*Summary* 
+*Summary:* 
 * Motivated, organized, responsible, quick-learner    
 * Good interpersonal, communication and teamwork skills 
 
-*Skills*
+*Skills:*
 
-HTML, HTML5, CSS, JS, Git, VS Code
+HTML5, CSS3, JS, Git, VS Code
 
-*Experience*
+*Experience:*
 
 As a student I implemented a project to get some hands-on development experience:   
 Implemented the landing page for spa&beauty center    
 Used technologies: HTML, HTML5, CSS     
 [demo](https://github.com/hauteballe/Spa-Landing/)
 
-*Education*   
+*Education:*   
 
-Belarusian State Medical University, Faculty of Dentistry (2014-2019) 
+Belarusian State Medical University, Faculty of Dentistry (2014-2019)   
+
 Online learning: HTML Academy, Freecodecamp
 
-*English* 
+*English:* 
 
 B2 (Upper-Intermediate)
