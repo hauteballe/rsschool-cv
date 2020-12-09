@@ -1,2 +1,2 @@
-# rsschool-cv
-https://hauteballe.github.io/rsschool-cv/cv
+# rsschool-cv   
+DEMO: https://hauteballe.github.io/rsschool-cv/
